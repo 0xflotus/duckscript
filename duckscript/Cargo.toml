@@ -23,7 +23,7 @@ include = [
 ]
 
 [dependencies]
-fsio = "^0.1"
+fsio = "^0.2"
 
 [badges.codecov]
 branch = "master"
